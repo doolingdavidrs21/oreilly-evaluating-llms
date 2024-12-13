@@ -25,9 +25,9 @@ python3 -m jupyter notebook
 
 	- **[Classification Metrics with BERT and BART](https://colab.research.google.com/drive/1yALtgSK6ENEa5WkBGWm3DPviuVGwhrw9?usp=sharing)** - Comparing a fine-tuned BERT model vs 0-shot classification with BART on the [app_reviews dataset](https://huggingface.co/datasets/sealuzh/app_reviews)
 
-		  - [Fine-tuning BERT on app_reviews](https://github.com/sinanuozdemir/quick-start-guide-to-llms/blob/main/notebooks/05_bert_app_review.ipynb): Fine-tuning a BERT model for app review classification.
+		- [Fine-tuning BERT on app_reviews](https://github.com/sinanuozdemir/quick-start-guide-to-llms/blob/main/notebooks/05_bert_app_review.ipynb): Fine-tuning a BERT model for app review classification.
 
-		  - [Fine-tuning Openai on app_reviews](https://github.com/sinanuozdemir/quick-start-guide-to-llms/blob/main/notebooks/05_openai_app_review_fine_tuning.ipynb): Fine-tuning OpenAI models for app review classification.
+		- [Fine-tuning Openai on app_reviews](https://github.com/sinanuozdemir/quick-start-guide-to-llms/blob/main/notebooks/05_openai_app_review_fine_tuning.ipynb): Fine-tuning OpenAI models for app review classification.
 
 
 	- **[RAG - Retrieval](https://github.com/sinanuozdemir/oreilly-retrieval-augmented-gen-ai/blob/main/notebooks/RAG_Retrieval.ipynb)**: An introduction to vector databases, embeddings, and retrieval
