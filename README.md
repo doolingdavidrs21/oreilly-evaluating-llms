@@ -32,7 +32,7 @@ python3 -m jupyter notebook
 
 	- **[RAG - Retrieval](https://github.com/sinanuozdemir/oreilly-retrieval-augmented-gen-ai/blob/main/notebooks/RAG_Retrieval.ipynb)**: An introduction to vector databases, embeddings, and retrieval
 
-		- [Advanced Semantic Search](https://colab.research.google.com/drive/1h8dmDclOnYsXKlMDYp1uRuW55xbzypUY?usp=sharing): A more advanced notebook on semantic search, cross-encoders, and fine-tuning
+		- [Advanced Semantic Search](https://github.com/sinanuozdemir/quick-start-guide-to-llms/blob/main/notebooks/02_semantic_search.ipynb): A more advanced notebook on semantic search, cross-encoders, and fine-tuning from my [book](https://github.com/sinanuozdemir/quick-start-guide-to-llms)
 
 	
 - **Benchmarking**
