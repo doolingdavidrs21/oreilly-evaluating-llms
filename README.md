@@ -2,7 +2,7 @@
 
 # Evaluating Large Language Models (LLMs)
 
-This repository contains code for live session and video for the [O'Reilly Course on Evaluating LLMs]()
+This repository contains code for live session [O'Reilly Course on Evaluating LLMs](https://learning.oreilly.com/live-events/evaluating-large-language-models-llms/0642572013878) with companion video course [here](https://learning.oreilly.com/course/evaluating-large-language/9780135451922/)
 
 This course offers an in-depth look at evaluating large language models (LLMs), equipping participants with the tools and techniques to measure their performance, reliability, and task alignment. Topics range from foundational metrics to advanced methods such as probing and fine-tuning evaluation. Hands-on exercises and real-world case studies make this course engaging and practical, ensuring learners can directly apply their knowledge to real-world systems.
 
