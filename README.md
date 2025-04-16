@@ -1,5 +1,10 @@
 ![oreilly-logo](images/oreilly.png)
 
+
+go here to check that the ollama server is running: http://127.0.0.1:11434
+
+
+
 # Evaluating Large Language Models (LLMs)
 
 This repository contains code for live session [O'Reilly Course on Evaluating LLMs](https://learning.oreilly.com/live-events/evaluating-large-language-models-llms/0642572013878) with companion video course [here](https://learning.oreilly.com/course/evaluating-large-language/9780135451922/)
@@ -17,8 +22,8 @@ python3 -m jupyter notebook
 - **Evaluating Generative Tasks**
 
 	- **[Evaluating Generative Free Text with Rubrics](https://colab.research.google.com/drive/1DeVYrdNb3FlQQLeBqGPFkx6roZaPwVRy?usp=sharing)**
-	
-	- **[Perplexlity, SelfCheckGPT + BERTScore](https://colab.research.google.com/drive/1rG8vCJz5He5JM5oPLYnH3TShSyCnyK9H?usp=sharing)** - 
+
+	- **[Perplexlity, SelfCheckGPT + BERTScore](https://colab.research.google.com/drive/1rG8vCJz5He5JM5oPLYnH3TShSyCnyK9H?usp=sharing)** -
 
 
 - **Evaluating Understanding Tasks**
@@ -34,17 +39,17 @@ python3 -m jupyter notebook
 
 		- [Advanced Semantic Search](https://github.com/sinanuozdemir/quick-start-guide-to-llms/blob/main/notebooks/02_semantic_search.ipynb): A more advanced notebook on semantic search, cross-encoders, and fine-tuning from my [book](https://github.com/sinanuozdemir/quick-start-guide-to-llms)
 
-	
+
 - **Benchmarking**
 
-	- **[Benchmarking Llama 3.2 Instruct on MMLU and Embedders on MTEB](https://colab.research.google.com/drive/1zDCqXc7vHoZilHVe3y2lYyTmSUSe6bh3?usp=sharingb)** 
-	
-	
+	- **[Benchmarking Llama 3.2 Instruct on MMLU and Embedders on MTEB](https://colab.research.google.com/drive/1zDCqXc7vHoZilHVe3y2lYyTmSUSe6bh3?usp=sharingb)**
+
+
 		- [Follow-up Evaluating Llama 3.2 non-instruct on MMLU](https://colab.research.google.com/drive/1aMy19Ikyody9CGyn42K3E_DQwLScL0Ek?usp=sharing)
 
 		- [Evaluating Llama 3.1 vs Mistral on Truthful Q/A](https://github.com/sinanuozdemir/quick-start-guide-to-llms/blob/main/notebooks/12_llm_gen_eval.ipynb) -
 
-		
+
 - **Probing**
 
 	- **[Probing Chess Playing LLMs](https://colab.research.google.com/drive/114turFLNxLJXiIseDWl1BDJmont0VD8h?usp=sharing)**
@@ -68,7 +73,7 @@ python3 -m jupyter notebook
 		- [Positional Bias on Agent Response Evaluation](https://github.com/sinanuozdemir/oreilly-ai-agents/blob/main/notebooks/Evaluating_LLMs_with_Rubrics.ipynb)
 
 	- **[Measuring RAG Re-Ranking](https://ai-office-hours.beehiiv.com/p/re-ranking-rag)**
-	
+
 	- **[Building and Evaluating a Recommendation Engine Using LLMs](https://github.com/sinanuozdemir/quick-start-guide-to-llms/blob/main/notebooks/07_recommendation_engine.ipynb)** - Fine-tuning embedding engines using custom preference data
 
 	- **[Using Evaluation to combat AI drift](https://colab.research.google.com/drive/14E6DMP_RGctUPqjI6VMa8EFlggXR7fat?usp=sharing)**
